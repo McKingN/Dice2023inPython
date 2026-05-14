@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\McKing.DESKTOP-4Q7G3QP\\\\Documents\\\\DICE\\\\GAMS-DICE2023-b-4-3-10\" -Recurse -Force)",
+      "Bash(Select-Object FullName, Length)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(python run_dice.py opt)",
+      "Bash(python run_dice.py)"
+    ]
+  }
+}
