@@ -5,7 +5,10 @@
       "Bash(Select-Object FullName, Length)",
       "Bash(Format-Table -AutoSize)",
       "Bash(python run_dice.py opt)",
-      "Bash(python run_dice.py)"
+      "Bash(python run_dice.py)",
+      "Bash(python -c ' *)",
+      "Bash(python run_dice.py T15)",
+      "Bash(python run_dice.py T15 T2)"
     ]
   }
 }

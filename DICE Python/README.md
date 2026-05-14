@@ -830,7 +830,6 @@ Set `tatm_max` to a temperature in °C to add a hard temperature ceiling.
 
 **Primary source:**
 Nordhaus, W.D. (2023). *DICE2023 Model*. Yale University.
-https://sites.google.com/site/williamdnordhaus/dice-rice
 
 **Original DICE paper:**
 Nordhaus, W.D. (1992). An optimal transition path for controlling greenhouse gases.
